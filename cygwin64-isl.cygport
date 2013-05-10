@@ -4,7 +4,7 @@ inherit cross
 NAME="cygwin64-isl"
 VERSION=0.11.1
 RELEASE=1
-CATEGORY="Libs"
+CATEGORY="Devel"
 SUMMARY="Integer Set Library for Cygwin 64bit toolchain"
 DESCRIPTION="isl is a library for manipulating sets and relations of integer
 points bounded by linear constraints. Supported operations on sets include
